@@ -52,7 +52,7 @@ All modifications in the project are of a maintenance nature at the moment. Howe
 
 ## 5. AUTHOR AND PROJECT LICENCION:
 Copyright (C) 2002-2004 by Sander Jansen. <sander@knology.net>   
-Copyright (C) 2018 - 2022 Pavel Šafařík <drakarax@seznam.cz>
+Copyright (C) 2018 - 2022 Pavel Šafařík <drakarax@seznam.cz>   
 All rights reseved.
 
 This file is part of FoxWM.
