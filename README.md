@@ -19,12 +19,11 @@ Documentation its in working process...
 ## 2. COMPILATION AND INSTALLATION:
 *Dependecies:*
   * [Foxtoolkit 1.7.76](http://fox-toolkit.org/ftp/fox-1.7.76.tar.gz)
-  * [{DEPENDENCY}{VERSION}]({LINK})
   
 *Aditional dependencies for compilation:*
   * cmake >= 3.10
   * g++
-  * {DEPENDENCY}{VERSION}
+  
   
 After downloading the project from Github (and possibly unzipping it), go to the folder with the project and enter the following command sequence:
 ```
@@ -47,8 +46,6 @@ If you have the library installed in a location other than the standard one, thi
 These lines are commented out by default, so remove the leading '#' characters after editing, and then save the file. Next, follow the instructions for building and installing the project above as normal.
 
 ## 3. KNOWN ERRORS AND BUGS
-* {DD/MM/20YY} - {SIMPLE DESCRIPTION / NAME } - OPEN
-  {DESCRIPTION}
 
 ## 4. PROJECT STATE AND PLANS FOR THE FUTHURE
 All modifications in the project are of a maintenance nature at the moment. However, the repository of the project on Github will be preserved for any interested parties, or for future generations to know that such a project ever existed...
@@ -58,18 +55,18 @@ Copyright (C) 2002-2004 by Sander Jansen. <sander@knology.net>
 Copyright (C) 2018 - 2022 Pavel Šafařík <drakarax@seznam.cz>
 All rights reseved.
 
-This file is part of Gorgona.
+This file is part of FoxWM.
 
-Gorgona is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+FoxWM is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Gorgona is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the 
+FoxWM is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the 
 implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with foxGHI. If not, see 
+You should have received a copy of the GNU General Public License along with FoxWM. If not, see 
 <https://www.gnu.org/licenses/>.
 
 ## 6. INTERNET
   * [Author's blog (CZ)](http://bfuplusplus.blogspot.cz/)
-  * [{NAME} {(LANG)}]({LINK})
+  * [Foxtoolkitu home page](http://fox-toolkit.org/)
 
 === END ===
