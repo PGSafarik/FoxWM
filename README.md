@@ -51,7 +51,7 @@ These lines are commented out by default, so remove the leading '#' characters a
 All modifications in the project are of a maintenance nature at the moment. However, the repository of the project on Github will be preserved for any interested parties, or for future generations to know that such a project ever existed...
 
 ## 5. AUTHOR AND PROJECT LICENCION:
-Copyright (C) 2002-2004 by Sander Jansen. <sander@knology.net>
+Copyright (C) 2002-2004 by Sander Jansen. <sander@knology.net>   
 Copyright (C) 2018 - 2022 Pavel Šafařík <drakarax@seznam.cz>
 All rights reseved.
 
